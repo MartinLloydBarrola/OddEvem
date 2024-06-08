@@ -1,3 +1,4 @@
+package OddEven;
 import java.util.Scanner;
 public class OddEven {
 
